@@ -1,4 +1,4 @@
-from keras.models import load_model
+from kerashhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhhh
 from tkinter import *
 import tkinter as tk
 import win32gui
